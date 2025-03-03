@@ -18,9 +18,9 @@ Customer Rating Analysis
 # repository structure  
  
  # Dashboard link
- <a href="https://app.powerbi.com/view?r=eyJrIjoiM2Q4MmYyN2EtYjExYy00ZTY2LTg0MjctZGQ4NDQ0MDllYmRmIiwidCI6IjJlNWZiNDc0LTMyMTUtNGNmNy05YWFiLTZkOGI1YmM0ZjI3YyJ9"></br>
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiM2Q4MmYyN2EtYjExYy00ZTY2LTg0MjctZGQ4NDQ0MDllYmRmIiwidCI6IjJlNWZiNDc0LTMyMTUtNGNmNy05YWFiLTZkOGI1YmM0ZjI3YyJ9"></a></br>
 # dashboard file : 
- inflation_employment_dashboard.xlsx  # Main Excel dashboard  
+[ inflation_employment_dashboard.xlsx](https://github.com/raushankr82/PowerBI_sales_dashboard_project/blob/main/mobile%20sales%20dashboard.pbix)</br>
 # Dashboard screenshot 
  IMAGE: ![powerbi dash](https://github.com/user-attachments/assets/82aeac60-3d99-43f7-afff-026e518ae4b0)</br>
  IMAGE: ![powerbi dasg report](https://github.com/user-attachments/assets/a4884bb3-35c6-47b0-b58a-6fd0a51b4b20)
